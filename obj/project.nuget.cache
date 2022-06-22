@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZNgfTqjn46PEjAS8hoLA3Mjufcqy03FfN8bbxbHDmCsvp4dz+ZEN+3QRWYiQxmUcGWyvvWd2g8wTvzRp0dPZbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edgar\\Desktop\\Projekt_APO_2022\\Projekt_APO_2022\\Projekt_APO_2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\aforgecore\\1.0.0\\aforgecore.1.0.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\aforgecore.imaging\\1.0.0\\aforgecore.imaging.1.0.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\aforgecore.math\\1.0.0\\aforgecore.math.1.0.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\emgu.cv\\4.5.5.4823\\emgu.cv.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\emgu.cv.bitmap\\4.5.5.4823\\emgu.cv.bitmap.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\emgu.cv.runtime.windows\\4.5.5.4823\\emgu.cv.runtime.windows.4.5.5.4823.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.29.30138\\emgu.runtime.windows.msvc.rt.x64.19.29.30138.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.29.30138\\emgu.runtime.windows.msvc.rt.x86.19.29.30138.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\opencvsharp\\2.4.0.1\\opencvsharp.2.4.0.1.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\opencvsharp4\\4.6.0.20220608\\opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\opencvsharp4.runtime.win\\4.6.0.20220608\\opencvsharp4.runtime.win.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\edgar\\Desktop\\Projekt_APO_2022\\Projekt_APO_2022\\Projekt_APO_2022.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\edgar\\Desktop\\Projekt_APO_2022\\Projekt_APO_2022\\Projekt_APO_2022.csproj": {
+      "version": "4.5.4.4788",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edgar\\Desktop\\Projekt_APO_2022\\Projekt_APO_2022\\Projekt_APO_2022.csproj",
+        "projectName": "Projekt_APO_2022",
+        "projectPath": "C:\\Users\\edgar\\Desktop\\Projekt_APO_2022\\Projekt_APO_2022\\Projekt_APO_2022.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edgar\\Desktop\\Projekt_APO_2022\\Projekt_APO_2022\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "AForge": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "AForge.Imaging": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "AForgeCore.Imaging": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Emgu.CV": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "Emgu.CV.Bitmap": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "Emgu.CV.runtime.windows": {
+              "target": "Package",
+              "version": "[4.5.5.4823, )"
+            },
+            "OpenCVSharp": {
+              "target": "Package",
+              "version": "[2.4.0.1, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.6.0.20220608, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.6.0.20220608, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
